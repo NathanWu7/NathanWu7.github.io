@@ -89,7 +89,7 @@ education:
 work:
   - position: Reinforcement Learning Algorithm Intern
     company_name: Sony (Research & Development Center China）
-    company_url: 'https://www.sony.com/en/SonyInfo/research/about/china-laboratory/'
+    company_url: https://www.sony.com/en/SonyInfo/research/about/china-laboratory/
     company_logo: ''
     date_start: 2024-05-28
     date_end: ''
