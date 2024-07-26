@@ -57,7 +57,7 @@ education:
   - area: MEng Control Engineering (Electrical Engineering)
     institution: Harbin Institute of Technology, Shenzhen
     date_start: 2022-09-01
-    date_end: 2025-3-21
+    date_end: 2025-03-21
     summary: |
 
       Courses included:
@@ -68,8 +68,8 @@ education:
   - area:  UC Berkeley Summer Camp
     institution: Sichuan University International Office and University of California, Berkeley
     institution_url: https://international.scu.edu.cn/
-    date_start: 2019-07
-    date_end: 2019-08
+    date_start: 2019-07-18
+    date_end: 2019-08-02
     summary: |
       Courses included:
       - Artificial Intelligence
