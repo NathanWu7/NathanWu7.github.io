@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Tactile Affordance for Robot Synesthesia"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,13 +17,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In the field of dexterous robotic manipulation, integrating visual and tactile modalities to inform manipulation policies presents significant challenges, especially in non-contact scenarios where reliance on tactile perception can be inadequate. Visual affordance techniques currently offer effective manipulation-centric semantic priors focused on objects. However, most existing research is limited to using camera sensors and prior object information for affordance prediction. In this study, we introduce a unified framework called Tactile Affordance for Robot Synesthesia (TARS) for dexterous manipulation that employs robotic synesthesia through a unified point cloud representation. This framework harnesses the visuo-tactile affordance of objects, effectively merging comprehensive visual perception from external cameras with tactile feedback from local optical tactile sensors to handle tasks involving both contact and non-contact states. We simulated tactile perception in a virtual environment and trained task-oriented manipulation policies. Subsequently, we tested our approach on four distinct manipulation tasks, conducting extensive experiments to evaluate how different modules within our method optimize the performance of these manipulation policies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study introduces the Tactile Affordance for Robot Synesthesia (TARS) framework, which integrates visual and tactile feedback through a unified point cloud representation to enhance dexterous robotic manipulation in both contact and non-contact scenarios.
 
 tags:
-- Large Language Models
+- Robotic Manipulation
 
 featured: true
 
