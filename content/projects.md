@@ -20,4 +20,8 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
 ---
