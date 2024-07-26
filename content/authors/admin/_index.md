@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 吴启伟
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Qi wei Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Qi wei
+last_name: Wu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎧
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Embodied AI
+  - Robotic Manipulation
+  - Visual-Tactile Perception
 
 education:
   - area: PhD Artificial Intelligence
@@ -62,22 +62,21 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Harbin Institute of Technology, Shenzhen
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area:  BEng Automation (Electrical Engineering)
+    institution: Sichuan University
+    date_start: 2018-09-01
+    date_end: 2022-06-21
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.6/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -146,8 +145,6 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +180,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a student at
