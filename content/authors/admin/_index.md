@@ -56,14 +56,25 @@ education:
   #     url: 'https://example.com'
   - area: MEng Control Engineering (Electrical Engineering)
     institution: Harbin Institute of Technology, Shenzhen
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2025-3-21
     summary: |
 
       Courses included:
       - Machine Learning (A)
       - Artificial Neural Networks and Control （A）
       - Pattern Recognition (A-)
+
+  - area:  UC Berkeley Summer Camp
+    institution: Sichuan University International Office and University of California, Berkeley
+    institution_url: https://international.scu.edu.cn/
+    date_start: 2019-07
+    date_end: 2019-08
+    summary: |
+      Courses included:
+      - Artificial Intelligence
+      - Business Analysis
+
   - area:  BEng Automation (Electrical Engineering)
     institution: Sichuan University
     date_start: 2018-09-01
@@ -78,15 +89,16 @@ education:
 work:
   - position: Reinforcement Learning Algorithm Intern
     company_name: Sony (Research & Development Center China）
-    company_url: ''
+    company_url: 'https://www.sony.com/en/SonyInfo/research/about/china-laboratory/'
     company_logo: ''
     date_start: 2024-05-28
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing a simulation environment for robotic manipulation tasks using the reinforcement learning physics engine Isaac Lab
+      - Designing a reinforcement learning algorithm aimed at robotic manipulation tasks involving deformable objects
+      - Implement sim2real and deploy it on real robots
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -124,9 +136,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
