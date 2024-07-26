@@ -25,16 +25,17 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Rapid Tactile Transfer Framework for Contact-Rich
+Manipulation Tasks*
+publication_short: In *RTTF*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: An increasing number of robotic manipulation tasks now use optical tactile sensors to provide tactile feedback, making tactile servo control a crucial aspect of robotic operations. This paper presents a rapid tactile transfer framework (RTTF) that achieves optical-tactile image sim2real transfer and robust tactile servo control using limited paired data. The sim2real aspect of RTTF employs a semi-supervised approach, beginning with pretraining the latent space representations of tactile images and subsequently mapping different tactile image domains to a shared latent space within a simulated tactile image domain. This latent space, combined with the proprioceptive information of the robotic arm, is then integrated into a privileged learning framework for policy training, which results in a deployable tactile control policy. Our results demonstrate the robustness of the proposed framework in achieving task objectives across different tactile sensors with varying physical parameters. Furthermore, manipulators equipped with tactile sensors, allow for rapid training and deployment for diverse contact-rich tasks, including object pushing and surface following.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper introduces a rapid tactile transfer framework (RTTF) that uses semi-supervised learning to achieve robust tactile servo control and sim2real transfer for robotic manipulation tasks with limited data.
 
 tags:
-  - Large Language Models
+  - Robotic Manipulation
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +47,7 @@ featured: true
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

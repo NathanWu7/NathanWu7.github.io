@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Publications (First Author)
       filters:
         folders:
           - publication

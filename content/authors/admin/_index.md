@@ -3,7 +3,7 @@
 title: 吴启伟
 
 # Name pronunciation (optional)
-name_pronunciation: Qi wei Wu
+name_pronunciation: Wu Qi wei
 
 # Full name (for SEO)
 first_name: Qi wei
