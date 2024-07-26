@@ -45,42 +45,42 @@ interests:
   - Visual-Tactile Perception
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  # - area: PhD Artificial Intelligence
+  #   institution: Stanford University
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com'
+  - area: MEng Control Engineering (Electrical Engineering)
     institution: Harbin Institute of Technology, Shenzhen
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Learning (A)
+      - Artificial Neural Networks and Control （A）
+      - Pattern Recognition (A-)
   - area:  BEng Automation (Electrical Engineering)
     institution: Sichuan University
     date_start: 2018-09-01
     date_end: 2022-06-21
     summary: |
-      GPA: 3.6/4.0
+      GPA: 3.6/4.0 （Comprehensive Rank 2/117）
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Automatic control principle-I （89/100）
+      - Artificial Intelligence （87/100）
+      - Machine Learning (91/100)
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Reinforcement Learning Algorithm Intern
+    company_name: Sony (Research & Development Center China）
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-05-28
     date_end: ''
     summary: |2-
       Responsibilities include:
