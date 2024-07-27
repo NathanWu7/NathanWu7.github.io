@@ -152,6 +152,7 @@ awards:
     #icon: coursera
     summary: |
       National Second Prize, Top 16
+
       Contribution:
       - Deploying and debugging robot armor target detection algorithms
       - Optimizing robot state estimation algorithms
@@ -163,6 +164,7 @@ awards:
     #icon: custom/Baidu
     summary: |
       Second Prize in Baidu Intelligent Traffic Group, Top 20%
+
       Contribution:
       - Design and debugging lane-following algorithm
       - Deploying and debugging traffic sign detection algorithm
@@ -175,6 +177,7 @@ awards:
     #icon: datacamp
     summary: |
       Third Prize in Small Size Robot League, Obstacle Avoidance Challenge
+
       Contribution:
       - Debugging robot control algorithms
       - Design obstacle avoidance algorithm for robots 
@@ -182,4 +185,4 @@ awards:
 
 ## About Me
 
-I'm a student at
+Greetings. I am a graduate student at the Harbin Institute of Technology (Shenzhen), conducting research in robotic manipulation and reinforcement learning at the Intelligent Perception and Control Laboratory. My research interests encompass robotic manipulation, multi-modal perception in robotics, and the integration of large language models (LLM) with robotic systems.
