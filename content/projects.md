@@ -22,6 +22,6 @@ sections:
       columns: 3
   - block: resume-awards
     content:
-      title: Awards
+      title: Selected Awards
       username: admin
 ---
