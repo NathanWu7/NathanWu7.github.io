@@ -1,5 +1,5 @@
 ---
-title: Obstacle avoidance and navigation
+title: Navigation and Avoidance
 date: 2022-03-15
 external_link: https://github.com/pytorch/pytorch
 tags:
