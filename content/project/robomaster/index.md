@@ -1,13 +1,11 @@
 ---
 title: Robot Detection and Tracking
-date: 2023-10-26
+date: 2021-07-26
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Mobile Robot
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+The robot is required to identify target robots using camera imagery and control a pan-tilt mechanism to track the identified targets.
 
 <!--more-->

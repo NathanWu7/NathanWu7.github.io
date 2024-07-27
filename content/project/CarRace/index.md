@@ -1,13 +1,10 @@
 ---
 title: Intelligent Cruise Control
-date: 2023-10-26
+date: 2019-10-10
 external_link: https://github.com/scikit-learn/scikit-learn
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Mobile Robot
 ---
-
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+The mobile robot is required to cruise along the lane mark while accurately detecting and responding to traffic signs for steering and velocity control.
 
 <!--more-->

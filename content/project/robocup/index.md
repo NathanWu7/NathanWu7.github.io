@@ -1,13 +1,11 @@
 ---
 title: Obstacle avoidance and navigation
-date: 2023-10-26
+date: 2022-03-15
 external_link: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Mobile Robot
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+The mobile robot must perform obstacle avoidance using LiDAR data while simultaneously leveraging camera-based vision for target identification and navigation to the desired location.
 
 <!--more-->
