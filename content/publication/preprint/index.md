@@ -36,12 +36,12 @@ featured: true
 #   url: http://example.org
 url_pdf: ''
 url_code: 'https://github.com/NathanWu7/VisualTactile'
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: 'https://youtu.be/g-Yl6tKlzIk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

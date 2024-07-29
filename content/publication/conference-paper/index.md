@@ -55,7 +55,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.bilibili.com/video/BV1cT421Y7b2/'
+url_video: 'https://youtu.be/UkUYNzcmwyk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
