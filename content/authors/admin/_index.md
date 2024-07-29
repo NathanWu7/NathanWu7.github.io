@@ -109,11 +109,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: ROS
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Torch
         description: ''
         percent: 40
         icon: circle-stack
