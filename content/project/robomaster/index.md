@@ -1,7 +1,7 @@
 ---
 title: Robot Detection and Tracking
 date: 2021-07-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://nathanwu7.github.io/project/robomaster/robomaster.pdf
 tags:
   - Mobile Robot
 ---

@@ -1,7 +1,7 @@
 ---
 title: Navigation and Avoidance
 date: 2022-03-15
-external_link: https://github.com/pytorch/pytorch
+external_link: https://nathanwu7.github.io/project/robomaster/robomaster.pdf
 tags:
   - Mobile Robot
 ---
