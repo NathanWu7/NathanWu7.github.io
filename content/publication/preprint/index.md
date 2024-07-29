@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: ''
+url_pdf: 24-2438_01_MS.pdf
 url_code: 'https://github.com/NathanWu7/VisualTactile'
 url_dataset: ''
 url_poster: ''
