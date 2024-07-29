@@ -1,5 +1,5 @@
 ---
-title: 'Rapid Tactile Transfer Framework for Contact-Rich Manipulation Tasks'
+title: "Rapid Tactile Transfer Framework for Contact-Rich Manipulation Tasks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,9 +13,9 @@ authors:
   - Yunjiang Lou
 
 # Author notes (optional)
-author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
+# author_notes:
+#   - "Equal contribution"
+#   - "Equal contribution"
 
 date: '2024-10-25T00:00:00Z'
 doi: ''
