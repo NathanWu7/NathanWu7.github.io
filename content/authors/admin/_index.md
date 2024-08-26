@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Greetings. I am a graduate student at the Harbin Institute of Technology (Shenzhen), conducting research in robotic manipulation and reinforcement learning at the Intelligent Perception and Control Laboratory. My research interests encompass robotic manipulation, multi-modal perception in robotics, and the integration of large language models (LLM) with robotic systems.
+Greetings. I am a graduate student at the Harbin Institute of Technology (Shenzhen), conducting research in robotic manipulation and reinforcement learning at the Intelligent Perception and Control Laboratory. My research interests encompass robotic manipulation, whole body control and manipulation, multi-modal perception in robotics, and the integration of large language models (LLM) with robotic systems.

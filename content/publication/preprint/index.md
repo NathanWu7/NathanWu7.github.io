@@ -1,5 +1,5 @@
 ---
-title: "Tactile Affordance for Robot Synesthesia"
+title: "Tactile Affordance in Robot Synesthesia for Dextrous Manipulation"
 authors:
 - admin
 - Haidong Wang
@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://nathanwu7.github.io/publication/preprint/24-2438_01_MS.pdf
+url_pdf: https://nathanwu7.github.io/publication/preprint/TARS.pdf
 url_code: 'https://github.com/NathanWu7/VisualTactile'
 url_dataset: ''
 url_poster: ''
