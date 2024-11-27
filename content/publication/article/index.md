@@ -7,10 +7,10 @@ authors:
 - Xiaogang Xiong
 - Yunjiang Lou
 date: "2024-07-28T00:00:00Z"
-doi: ""
+doi: "10.1109/LRA.2024.3505783"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-28T00:00:00Z"
+publishDate: "2024-11-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,8 +18,8 @@ publishDate: "2024-07-28T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: In *IEEE Robotics and Automation Letters *
+publication_short: In *RAL*
 
 abstract: In the field of dexterous robotic manipulation, integrating visual and tactile modalities to inform manipulation policies presents significant challenges, especially in non-contact scenarios where reliance on tactile perception can be inadequate. Visual affordance techniques currently offer effective manipulation-centric semantic priors focused on objects. However, most existing research is limited to using camera sensors and prior object information for affordance prediction. In this study, we introduce a unified framework called Tactile Affordance for Robot Synesthesia (TARS) for dexterous manipulation that employs robotic synesthesia through a unified point cloud representation. This framework harnesses the visuo-tactile affordance of objects, effectively merging comprehensive visual perception from external cameras with tactile feedback from local optical tactile sensors to handle tasks involving both contact and non-contact states. We simulated tactile perception in a virtual environment and trained task-oriented manipulation policies. Subsequently, we tested our approach on four distinct manipulation tasks, conducting extensive experiments to evaluate how different modules within our method optimize the performance of these manipulation policies.
 
@@ -34,14 +34,14 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://nathanwu7.github.io/publication/preprint/TARS.pdf
+url_pdf: https://ieeexplore.ieee.org/document/10766612
 url_code: 'https://github.com/NathanWu7/VisualTactile'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/g-Yl6tKlzIk'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
