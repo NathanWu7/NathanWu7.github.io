@@ -98,7 +98,7 @@ work:
     company_url: https://www.sony.com/en/SonyInfo/research/about/china-laboratory/
     company_logo: ''
     date_start: 2024-05-28
-    date_end: ''
+    date_end: 2024-08-28
     summary: |2-
       Responsibilities include:
       - Developing a simulation environment for robotic manipulation tasks using the reinforcement learning physics engine Isaac Lab
