@@ -54,11 +54,11 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  - area: Ph.D Robotics
-    institution: The Hong Kong University of Science and Technology
-    date_start: 2025-02-06
-    date_end: 
-    summary: |
+  # - area: Ph.D Robotics
+  #   institution: The Hong Kong University of Science and Technology
+  #   date_start: 2025-02-06
+  #   date_end: 
+  #   summary: |
 
   - area: MEng Control Engineering (Electrical Engineering)
     institution: Harbin Institute of Technology, Shenzhen

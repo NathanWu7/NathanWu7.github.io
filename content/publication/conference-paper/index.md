@@ -17,11 +17,11 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: '2024-10-25T00:00:00Z'
-doi: ''
+date: '2024-10-19T00:00:00Z'
+doi: '10.1109/IROS58592.2024.10801764'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-29T00:00:00Z'
+publishDate: '2024-12-25T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/10801764'
 url_code: 'https://github.com/NathanWu7/TLSM'
 url_dataset: ''
 url_poster: ''
