@@ -43,6 +43,7 @@ interests:
   - Embodied AI
   - Robotic Manipulation
   - Visual-Tactile Perception
+  - Humanoid Robotics
 
 education:
   # - area: PhD Artificial Intelligence
@@ -105,6 +106,16 @@ work:
       - Designing a reinforcement learning algorithm aimed at robotic manipulation tasks involving deformable objects
       - Implement sim2real and deploy it on real robots
 
+  - position: Research Assistant
+    company_name: The Hong Kong University of Science and Technology (Guangzhou）
+    company_url: https://www.hkust-gz.edu.cn/
+    company_logo: ''
+    date_start: 2024-12-28
+    date_end: 2025-
+    summary: |2-
+      Responsibilities include:
+      - Assist in setting up the reinforcement learning training environment for humanoid robots.
+      - Assist in designing the motion control algorithms for humanoid robots.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -142,7 +153,7 @@ skills:
 
 languages:
   - name: English
-    percent: 75
+    percent: 80
   - name: Chinese
     percent: 100
 
@@ -187,6 +198,20 @@ awards:
       Contribution:
       - Debugging robot control algorithms
       - Design obstacle avoidance algorithm for robots 
+
+  - title: 'Outstanding Thesis (Harbin Institute of Technology)'
+    date: '2025-01-04'
+    awarder: Outstanding Thesis Top 5%
+    #icon: datacamp
+    summary: |
+      The combined score of the graduation defense and thesis ranks first in the whole department.
+
+  - title: 'Outstanding Thesis (Sichuan University)'
+    date: '2022-05-26'
+    awarder: Outstanding Thesis Top 5%
+    #icon: datacamp
+    summary: |
+      The combined score of the graduation defense and thesis ranks Top 3% in the whole department.
 ---
 
 ## About Me
