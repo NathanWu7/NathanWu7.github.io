@@ -24,9 +24,8 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Harbin Institute of Technology, Shenzhen
-    url: http://en.hitsz.edu.cn/
-
+  - name: Hong Kong University of Science and technology, Guangzhou
+    url: https://www.hkust-gz.edu.cn/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -60,6 +59,15 @@ education:
   #   date_start: 2025-02-06
   #   date_end: 
   #   summary: |
+  - area: Ph.D in Microelectronics‌
+    institution: The Hong Kong University of Science and Technology, Guangzhou
+    date_start: 2025-04-01
+    date_end: 2028-06-21
+    summary: |
+
+      Courses included:
+      - Computer Vision 
+      - Artificial Intelligence
 
   - area: MEng Control Engineering (Electrical Engineering)
     institution: Harbin Institute of Technology, Shenzhen
@@ -201,7 +209,7 @@ awards:
 
   - title: 'Outstanding Thesis (Harbin Institute of Technology)'
     date: '2025-01-04'
-    awarder: Outstanding Thesis Top 5%
+    awarder: Outstanding Thesis Top 1
     #icon: datacamp
     summary: |
       The combined score of the graduation defense and thesis ranks first in the whole department.
