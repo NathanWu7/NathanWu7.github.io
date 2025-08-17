@@ -114,6 +114,17 @@ work:
       - Designing a reinforcement learning algorithm aimed at robotic manipulation tasks involving deformable objects
       - Implement sim2real and deploy it on real robots
 
+  - position: Research Intern
+    company_name: Nvidia
+    company_url: https://www.nvidia.com/en-us/
+    company_logo: ''
+    date_start: 2025-08-11
+    date_end: 2026-08-10
+    summary: |
+      Responsibilities include:
+      - Developing a simulation environment for robotic manipulation tasks using the reinforcement learning physics engine Isaac Lab
+      - Implement sim2real and deploy it on real robots
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
